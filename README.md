@@ -153,10 +153,8 @@ influencer-analyzer/
 
 ## Future Plans
 
-- Resolve frontend rendering issue by Q3 2025.
-- Implement Redis for distributed caching.
+- Resolve frontend rendering issue.
 - Integrate Instagram API for multi-platform support.
-- Achieve 100% WCAG 2.1 compliance.
 - Conduct user testing with marketing professionals.
 
 
