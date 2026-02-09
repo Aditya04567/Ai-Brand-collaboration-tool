@@ -94,7 +94,7 @@ def generate_ai_channel_report(influencer_data):
 
 
 # Replace with your YouTube Data API key
-YOU_API_KEY = "AIzaSyDyCtjjQUZYDTKG_172GinUqgymw_R87WU"
+YOU_API_KEY = "your api key"
 
 
 # Initialize YouTube API client
