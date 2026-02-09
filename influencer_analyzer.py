@@ -19,7 +19,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Directly set your API key here
-GEMINI_API_KEY = "AIzaSyCVL6F5W5Ubrwdj05ukRj03_VXB3KfxRYs"  # Replace with your actual API key
+GEMINI_API_KEY = "your api key"  # Replace with your actual API key
 
 # Configure Gemini API
 try:
